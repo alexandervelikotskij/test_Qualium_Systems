@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*COLORS*/
+/*FONTS*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic");
+
+/*--------- GENERAL & BASIC STYLES ---------*/
+body {
+    padding-top: 30px;
+    color: #424955;
+    background: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+.name {
+    color: #000;
+    font-size: 30px;
+}

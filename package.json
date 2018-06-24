@@ -1,0 +1,14 @@
+{
+  "name": "testqualium",
+  "version": "1.0.0",
+  "description": "Awesome CRUD application",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --static ./"
+  },
+  "author": "Alexander Velikotskij",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
